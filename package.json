@@ -1,0 +1,23 @@
+{
+  "name": "ts2delphi",
+  "version": "1.0.0",
+  "main": "bin/transpiler.js",
+  "license": "MIT",
+  "scripts": {
+    "watch": "nodemon"
+  },
+  "peerDependencies": {
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "ts-simple-ast-extra": "^0.3.15"
+  },
+  "devDependencies": {
+    "@types/node": "^16.9.2",
+    "debug": "^4.3.2",
+    "ts-node": "^10.2.1"
+  },
+  "description": "A transpiler that transpiles TypeScript to Pascal / Delphi",
+  "author": "Matheus Giovani <matheus@ad3com.com.br>",
+  "private": false
+}
