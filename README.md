@@ -1,6 +1,8 @@
 # ts2delphi
 ts2delphi is a tool that can transpile TypeScript to Delphi / Pascal.
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+
 This is a BETA project, it can change drastically over time, so use it with caution for now and stay updated! :D
 
 # Compilation Rules
